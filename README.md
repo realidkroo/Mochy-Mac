@@ -1,8 +1,4 @@
-# the-wikis
-
-Yea, nothing here
-
-## the wiki for your destination
+# the wiki for your destination
 
 *Imagine making documentation on GitHub README, yes that's me! Anyway the documentation is short anyway!*
 
