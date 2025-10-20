@@ -62,12 +62,6 @@ To view the other world go to here
 And to change to night go to here
 <img width="1920" height="1200" alt="Screenshot 2025-10-20 at 09 02 29" src="https://github.com/user-attachments/assets/e24a75f0-43e1-4f25-960c-0af05a3d1eb2" />
 
-![View Options](image-placeholder.png)
-
-Or you also can switch worlds with the sidebar selection on top left.
-
-![World Selection](image-placeholder.png)
-
 ---
 
 ## Notes & Documentation
