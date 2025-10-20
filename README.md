@@ -1,3 +1,7 @@
+# the-wikis
+
+Yea, nothing here
+
 ## the wiki for your destination
 
 *Imagine making documentation on GitHub README, yes that's me! Anyway the documentation is short anyway!*
@@ -57,7 +61,7 @@ Or you also can switch worlds with the sidebar selection on top left.
 ### How to Register & Login?
 
 > [!WARNING]
-> **⚠️ Note:** Your progress will continue with your username! **DO NOT TRY TO SWITCH TO OTHER PROFILE OTHERWISE YOUR PROGRESS MIGHT BE LOST!**
+> Your progress will continue with your username if you are previously logged in! **DO NOT TRY TO SWITCH TO OTHER PROFILE OTHERWISE YOUR PROGRESS MIGHT BE LOST!**
 > 
 > Why? We do this to prevent USERNAME ABUSE! The server is on offline mode, and anyone can login to existing profile/username, INCLUDING YOU! Once the player logged in with your username, they can abuse it, throwing items, burn your house, etc. (The owner has the experience with one of these people on his old server so please don't ask why.)
 
@@ -76,6 +80,21 @@ To login when you leave and join:
 ### Custom Recipe
 
 Later available.
+
+---
+
+## Mods
+
+Here's my own (idkroo) Modpack for 1.21.1. Paste that on the .minecraft folder, or your own directory folder (Parent of /mods)
+
+📦 [Download from Releases](../../releases)
+
+**What does this Modpack include?**
+
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) + configuration
+- [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
+- [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)
+- etc, I can't list all
 
 ---
 
